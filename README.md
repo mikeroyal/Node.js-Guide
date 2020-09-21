@@ -33,3 +33,25 @@
 [Node.js tutorial in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)
 
 [Server-side Development with NodeJS, Express and MongoDB from Coursera](https://www.coursera.org/learn/server-side-nodejs)
+
+## Tools
+
+[NPM](https://www.npmjs.com/) is the company behind Node package manager, the npm Registry, and npm CLI. 
+
+[node-gyp](https://github.com/nodejs/node-gyp) is a cross-platform command-line tool written in Node.js for compiling native addon modules for Node.js. It contains a vendored copy of the gyp-next project that was previously used by the Chromium team, extended to support the development of Node.js native addons.
+
+[nvm ](https://github.com/nvm-sh/nvm) is a version manager for node.js, designed to be installed per-user, and invoked per-shell. nvm works on any POSIX-compliant shell (sh, dash, ksh, zsh, bash), in particular on these platforms: unix, macOS, and windows WSL.
+
+[node-docker](https://hub.docker.com/_/node/) is the official Node.js docker image, made with love by the node community.
+
+[Mocha](https://github.com/mochajs/mocha) is a simple, flexible, fun JavaScript test framework for Node.js & The Browser.
+
+[AVA](https://github.com/avajs/ava) is a test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation that lets you develop with confidence.
+
+[egg](https://eggjs.org/) is a born to build better enterprise frameworks and apps with Node.js & Koa.
+
+[mysqljs](https://github.com/mysqljs/mysql) is a pure node.js JavaScript Client implementing the MySQL protocol. 
+
+[axios](https://github.com/axios/axios) is a promise based HTTP client for the browser and node.js.
+
+[Fastify](https://www.fastify.io/) is a fast and low overhead web framework, for Node.js. 
