@@ -6,7 +6,14 @@
 
 #### A guide covering the Node.js including the applications and tools that will make you a better and more efficient Node.js developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/118560472-6537f500-b71e-11eb-9f15-e966bad67a8a.png">
+  <br />
+</p>
+
+# Node.js Learning Resources
 
 [Node.js](https://nodejs.org/) is a JavaScript runtime built on Chrome's V8 JavaScript engine that lets developers write command line tools and server-side scripts outside of a browser.
 
@@ -34,7 +41,7 @@
 
 [Server-side Development with NodeJS, Express and MongoDB on Coursera](https://www.coursera.org/learn/server-side-nodejs)
 
-## Tools
+# Node.js Tools and Frameworks
 
 [NPM](https://www.npmjs.com/) is the company behind Node package manager, the npm Registry, and npm CLI. 
 
@@ -75,3 +82,12 @@
 [React Starter Kit](https://www.reactstarterkit.com/) is an isomorphic web app boilerplate for web development built on top of [Node.js](https://nodejs.org/), [Express](http://expressjs.com/), [GraphQL](http://graphql.org/) and [React](https://facebook.github.io/react/), containing modern web development tools such as [Webpack](https://webpack.github.io/), [Babel](https://babeljs.io/) and [Browsersync](https://www.browsersync.io/). Helping you to stay productive following the best practices.
 
 [Hexo](https://hexo.io/) is a A fast, simple & powerful blog framework, powered by Node.js. 
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Node.js-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
